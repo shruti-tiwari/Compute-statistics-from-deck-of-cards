@@ -22,7 +22,6 @@ Make some estimates about values you will get on future draws. Within what range
 
 1. deck_cards_draw.ipynb - code in jupyter file.
 2. deck_cards_draw.pdf - view report in pdf format.
-3. deck_cards_draw.html - view report in html format.
 
 ## Running the Code:
 To see the final code and analysis use this link:
